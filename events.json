@@ -1,0 +1,150 @@
+{
+    "card1930":[
+        {
+            "id": "card1939",
+            "year":"1939",
+            "title":"Hewlett Peckard is founded",
+            "description":"David Packard and Bill Hewlett found their company in a Palo Alto, California garage. Their first product, the HP 200A Audio Oscillator, rapidly became a popular piece of test equipment for engineers. Walt Disney Pictures ordered eight of the 200B model to test recording equipment and speaker systems for the 12 specially equipped theatres that showed the movie “Fantasia” in 1940."
+        }
+    ],
+    "card1940":[
+        {
+            "id": "card1940a",
+            "year":"1940",
+            "title":"The complex Number Calculator (cNC) is completed",
+            "description":"In 1939, Bell Telephone Laboratories completes this calculator, designed by scientist George Stibitz. In 1940, Stibitz demonstrated the CNC at an American Mathematical Society conference held at Dartmouth College. Stibitz stunned the group by performing calculations remotely on the CNC (located in New York City) using a Teletype terminal connected to New York over special telephone lines. This is likely the first example of remote access computing."
+        },
+        {
+            "id": "card1942",
+            "year":"1942",
+            "title":"The Atanasoff-Berry Computer(ABC) is completed",
+            "description":"After successfully demonstrating a proof-of-concept prototype in 1939, Professor John Vincent Atanasoff receives funds to build a full-scale machine at Iowa State College (now University). The machine was designed and built by Atanasoff and graduate student Clifford Berry between 1939 and 1942. The ABC was at the center of a patent dispute related to the invention of the computer, which was resolved in 1973 when it was shown that ENIAC co-designer John Mauchly had seen the ABC shortly after it became functional.The legal result was a landmark: Atanasoff was declared the originator of several basic computer ideas, but the computer as a concept was declared un-patentable and thus freely open to all. A full-scale working replica of the ABC was completed in 1997, proving that the ABC machine functioned as Atanasoff had claimed. The replica is currently on display at the Computer History Museum."
+        },
+        {
+            "id": "card1944",
+            "year":"1944",
+            "title":"Harward Mark-1 is completed",
+            "description":"Conceived by Harvard physics professor Howard Aiken, and designed and built by IBM, the Harvard Mark 1 is a room-sized, relay-based calculator. The machine had a fifty-foot long camshaft running the length of machine that synchronized the machine’s thousands of component parts and used 3,500 relays. The Mark 1 produced mathematical tables but was soon superseded by electronic stored-program computers."
+        },
+        {
+            "id": "card1948",
+            "year":"1948",
+            "title":"First Computer Program to run on a Computer",
+            "description":"University of Manchester researchers Frederic Williams, Tom Kilburn, and Geoff Toothill develop the Small-Scale Experimental Machine (SSEM), better known as the Manchester Baby. The Baby was built to test a new memory technology developed by Williams and Kilburn -- soon known as the Williams Tube – which was the first high-speed electronic random access memory for computers. Their first program, consisting of seventeen instructions and written by Kilburn, ran on June 21st, 1948. This was the first program in history to run on a digital, electronic, stored-program computer."
+        },
+        {
+            "id": "card1949",
+            "year":"1949",
+            "title":"CSIRAC runs first program",
+            "description":"While many early digital computers were based on similar designs, such as the IAS and its copies, others are unique designs, like the CSIRAC. Built in Sydney, Australia by the Council of Scientific and Industrial Research for use in its Radio physics Laboratory in Sydney, CSIRAC was designed by British-born Trevor Pearcey, and used unusual 12-hole paper tape. It was transferred to the Department of Physics at the University of Melbourne in 1955 and remained in service until 1964."
+        },
+        {
+            "id":"card1949s",
+            "year":"1949",
+            "title":"Manchester Mark-1 is completed",
+            "description":"Built by a team led by engineers Frederick Williams and Tom Kilburn, the Mark I serves as the prototype for Ferranti’s first computer – the Ferranti Mark 1. The Manchester Mark I used more than 1,300 vacuum tubes and occupied an area the size of a medium room. Its “Williams-Kilburn tube” memory system was later adopted by several other early computer systems around the world."
+        }
+    ],
+    "card1950":[
+        {
+            "id": "card1951",
+            "year":"1951",
+            "title":"Ferranti Mark1 Sold",
+            "description":"The title of “first commercially available general-purpose computer” probably goes to Britain’s Ferranti Mark I for its sale of its first Mark I computer to Manchester University. The Mark 1 was a refinement of the experimental Manchester “Baby” and Manchester Mark 1 computers, also at Manchester University. A British government contract spurred its initial development but a change in government led to loss of funding and the second and only other Mark I was sold at a major loss to the University of Toronto, where it was re-christened FERUT."
+        },
+        {
+            "id":"card1952",
+            "year":"1952",
+            "title":"IAS Computer Operational",
+            "description":"The Institute of Advanced Study (IAS) computer is a multi-year research project conducted under the overall supervision of world-famous mathematician John von Neumann. The notion of storing both data and instructions in memory became known as the ‘stored program concept’ to distinguish it from earlier methods of instructing a computer. The IAS computer was designed for scientific calculations and it performed essential work for the US atomic weapons program. Over the next few years, the basic design of the IAS machine was copied in at least 17 places and given similar-sounding names, for example, the MANIAC at Los Alamos Scientific Laboratory; the ILLIAC at the University of Illinois; the Johnniac at The Rand Corporation; and the SILLIAC in Australia."
+        },
+        {
+            "id":"card1954",
+            "year":"1954",
+            "title":"IBM 650 Megnetic drum calculator introduced",
+            "description":"IBM establishes the 650 as its first mass-produced computer, with the company selling 450 in just one year. Spinning at 12,500 rpm, the 650´s magnetic data-storage drum allowed much faster access to stored information than other drum-based machines. The Model 650 was also highly popular in universities, where a generation of students first learned programming."
+        },
+        {
+            "id":"card1956",
+            "year":"1956",
+            "title":"Direct Keyboard Input to Computers",
+            "description":"At MIT, researchers begin experimenting with direct keyboard input to computers, a precursor to today´s normal mode of operation. Typically, computer users of the time fed their programs into a computer using punched cards or paper tape. Doug Ross wrote a memo advocating direct access in February. Ross contended that a Flexowriter -- an electrically-controlled typewriter -- connected to an MIT computer could function as a keyboard input device due to its low cost and flexibility. An experiment conducted five months later on the MIT Whirlwind computer confirmed how useful and convenient a keyboard input device could be."
+        },
+        {
+            "id":"card1958",
+            "year":"1958",
+            "title":"RCA introduces its Model-501 transistorised computer",
+            "description":"The 501 is built on a 'building block' concept which allows it to be highly flexible for many different uses and could simultaneously control up to 63 tape drives—very useful for large databases of information. For many business users, quick access to this huge storage capability outweighed its relatively slow processing speed. Customers included US military as well as industry."
+        }
+    ],
+    "card1960":[
+        {
+            "id": "card1960a",
+            "year":"1960",
+            "title":"DEC PDP-1 Introduced",
+            "description":"The typical PDP-1 computer system, which sells for about $120,000, includes a cathode ray tube graphic display, paper tape input/output, needs no air conditioning and requires only one operator; all of which become standards for minicomputers. Its large scope intrigued early hackers at MIT, who wrote the first computerized video game, SpaceWar!, as well as programs to play music. More than 50 PDP-1s were sold."
+        },
+        {
+            "id": "card1962",
+            "year":"1962",
+            "title": "MIT LINC Introduced",
+            "description": "The LINC is an early and important example of a ‘personal computer,’ that is, a computer designed for only one user. It was designed by MIT Lincoln Laboratory engineer Wesley Clark. Under the auspices of a National Institutes of Health (NIH) grant, biomedical research faculty from around the United States came to a workshop at MIT to build their own LINCs, and then bring them back to their home institutions where they would be used. For research, Digital Equipment Corporation (DEC) supplied the components, and 50 original LINCs were made. The LINC was later commercialized by DEC and sold as the LINC-8."
+        },
+        {
+            "id":"card1964",
+            "year":"1964",
+            "title":"CDC 6600 Supercomputer Introduced",
+            "description":"The Control Data Corporation (CDC) 6600 performs up to 3 million instructions per second —three times faster than that of its closest competitor, the IBM 7030 supercomputer. The 6600 retained the distinction of being the fastest computer in the world until surpassed by its successor, the CDC 7600, in 1968. Part of the speed came from the computer´s design, which used 10 small computers, known as peripheral processing units, to offload the workload from the central processor."
+        },
+        {
+            "id":"card1965",
+            "year":"1965",
+            "title":"3C-DDP 116 introduced",
+            "description":"Designed by engineer Gardner Hendrie for Computer Control Corporation (CCC), the DDP-116 is announced at the 1965 Spring Joint Computer Conference. It was the world's first commercial 16-bit minicomputer and 172 systems were sold. The basic computer cost $28,500."
+        },
+        {
+            "id":"card1966",
+            "year":"1966",
+            "title":"HP introduces the HP2116A",
+            "description":"The 2116A is HP’s first computer. It was developed as a versatile instrument controller for HP's growing family of programmable test and measurement products. It interfaced with a wide number of standard laboratory instruments, allowing customers to computerize their instrument systems. The 2116A also marked HP's first use of integrated circuits in a commercial product."
+        },
+        {
+            "id":"card1968",
+            "year":"1968",
+            "title":"Apollo Guidance Computer (AGC) makes its debut",
+            "description":"Designed by scientists and engineers at MIT’s Instrumentation Laboratory, the Apollo Guidance Computer (AGC) is the culmination of years of work to reduce the size of the Apollo spacecraft computer from the size of seven refrigerators side-by-side to a compact unit weighing only 70 lbs. and taking up a volume of less than 1 cubic foot. The AGC’s first flight was on Apollo 7. A year later, it steered Apollo 11 to the lunar surface. Astronauts communicated with the computer by punching two-digit codes into the display and keyboard unit (DSKY). The AGC was one of the earliest uses of integrated circuits, and used core memory, as well as read-only magnetic rope memory. The astronauts were responsible for entering more than 10,000 commands into the AGC for each trip between Earth and the Moon."
+        }
+    ],
+    "card1970":[
+        {
+            "id": "card1973",
+            "year":"1973",
+            "title":"IBM SCAMP is developed",
+            "description":"Under the direction of engineer Dr. Paul Friedl, the Special Computer APL Machine Portable (SCAMP) personal computer prototype is developed at IBM's Los Gatos and Palo Alto, California laboratories. IBM’s first personal computer, the system was designed to run the APL programming language in a compact, briefcase-like enclosure which comprised a keyboard, CRT display, and cassette tape storage. Friedl used the SCAMP prototype to gain approval within IBM to promote and develop IBM’s 5100 family of computers, including the most successful, the 5150, also known as the IBM Personal Computer (PC), introduced in 1981. From concept to finished system, SCAMP took only six months to develop."
+        },
+        {
+            "id": "card1975",
+            "year":"1975",
+            "title":"MOS 6502 Introduced",
+            "description":"Chuck Peddle leads a small team of former Motorola employees to build a low-cost microprocessor. The MOS 6502 was introduced at a conference in San Francisco at a cost of $25, far less than comparable processors from Intel and Motorola, leading some attendees to believe that the company was perpetrating a hoax. The chip quickly became popular with designers of early personal computers like the Apple II and Commodore PET, as well as game consoles like the Nintendo Entertainment System. The 6502 and its progeny are still used today, usually in embedded applications."
+        },
+        {
+            "id": "card1976",
+            "year":"1976",
+            "title":"Cray 1 Supercomputer introduced",
+            "description":"The fastest machine of its day, The Cray-1's speed comes partly from its shape, a C, which reduces the length of wires and thus the time signals need to travel across them. High packaging density of integrated circuits and a novel Freon cooling system also contributed to its speed. Each Cray-1 took a full year to assemble and test and cost about $10 million. Typical applications included US national defense work, including the design and simulation of nuclear weapons, and weather forecasting."
+        },
+        {
+            "id": "card1977",
+            "year":"1977",
+            "title":"Apple II Introduced",
+            "description":"Sold complete with a main logic board, switching power supply, keyboard, case, manual, game paddles, and cassette tape containing the game Breakout, the Apple-II finds popularity far beyond the hobbyist community which made up Apple’s user community until then. When connected to a color television set, the Apple II produced brilliant color graphics for the time. Millions of Apple IIs were sold between 1977 and 1993, making it one of the longest-lived lines of personal computers. Apple gave away thousands of Apple IIs to school, giving a new generation their first access to personal computers."
+        },
+        {
+            "id": "card1979",
+            "year":"1979",
+            "title":"Atari Introduces its Model 400 and 800 computers",
+            "description":"Shortly after delivery of the Atari VCS game console, Atari designs two microcomputers with game capabilities: the Model 400 and Model 800. The 400 served primarily as a game console, while the 800 was more of a home computer. Both faced strong competition from the Apple II, Commodore PET, and TRS-80 computers. Atari's 8-bit computers were influential in the arts, especially in the emerging DemoScene culture of the 1980s and '90s."
+        }
+    ]
+}
